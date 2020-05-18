@@ -21,6 +21,6 @@ Gem::Specification.new do |s|
   s.add_dependency "json", ">= 1.7.7"
   s.add_dependency "rest-client", ">= 1.6.7"
 
-  s.add_development_dependency "rspec", '~> 2.14.1'
+  s.add_development_dependency "rspec", '~> 3.9.0'
   s.add_development_dependency "rails", ">= 3.2.13"
 end
